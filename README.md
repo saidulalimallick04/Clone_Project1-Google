@@ -1,2 +1,2 @@
 # Clone_Project1-Google
-Frontend Project to create www.google.com Clone.
+Frontend UI to create www.google.com Clone.
